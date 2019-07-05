@@ -1,0 +1,65 @@
+{
+  "title": "Accesibilidad",
+  "options": {
+    "controls": true,
+    "progress": true,
+    "history": true,
+    "center": true,
+    "slideNumber": true,
+    "touch": true,
+    "hideAddressBar": true,
+    "mouseWheel": true
+  },
+  "plugins": {
+    "search": true,
+    "zoom":   false,
+    "menu":   true,
+    "notes":  true,
+    "highlightjs": true,
+    "ga": ""
+  },
+  "serviceWorker": true,
+  "slides": [
+    {"path": "index.md", "attrs": {"class":"intro"}},
+    [
+      {"path": "01-introduccion/00-datos.md"},
+      {"path": "01-introduccion/01-significado.md"},
+      {"path": "01-introduccion/02-pautas.md"}
+    ],
+    [
+      {"path": "02-focus/01-significado.md"},
+      {"path": "02-focus/02-significado.md"},
+      {"path": "02-focus/03-orden_dom.md"},
+      {"path": "02-focus/04-tabindex.md"}
+    ],
+    [
+      {"path": "03-semantica_basica/01-significado.md"},
+      {"path": "03-semantica_basica/02-lector_pantalla.md"},
+      {"path": "03-semantica_basica/03-arbol_accesibilidad.md"},
+      {"path": "03-semantica_basica/04-alternativas_texto.md"}
+    ],
+    [
+      {"path": "04-aria/01-significado.md"},
+      {"path": "04-aria/02-atributos.md"},
+      {"path": "04-aria/03-estados_propiedades.md"},
+      {"path": "04-aria/04-aria_label.md"}
+    ],
+    [
+      {"path": "05-estilos/01-estilos_accesibles.md"},
+      {"path": "05-estilos/02-estilo_foco.md"},
+      {"path": "05-estilos/03-estilos_aria.md"},
+      {"path": "05-estilos/04-adaptable.md"},
+      {"path": "05-estilos/05-color_contraste.md"}
+
+    ],
+    [
+      {"path": "06-herramientas/01-herramientas.md"},
+      {"path": "06-herramientas/02-axe.md"},
+      {"path": "06-herramientas/03-axepro.md"},
+      {"path": "06-herramientas/04-axepro.md"},
+      {"path": "06-herramientas/04-lighthouse.md"},
+      {"path": "06-herramientas/05-cy_axe.md"}
+    ],
+    {"path": "last.md", "attrs": {"class":"last bg-red"}}
+  ]
+}

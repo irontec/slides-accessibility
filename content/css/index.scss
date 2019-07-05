@@ -1,0 +1,21 @@
+
+@import '~@irontec/reveal.js-theme/dist/theme.css';
+
+
+.intro {
+  background-image: url('../assets/media/fondo_presentacion.jpg');
+  img {
+    border: 0px !important;
+    background: transparent !important;
+    box-shadow: none !important;
+  }
+}
+
+
+.reveal p{
+  max-width: 100%;
+}
+
+#slides strong{
+  font-weight:bold;
+}
