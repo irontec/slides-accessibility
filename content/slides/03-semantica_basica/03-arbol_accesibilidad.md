@@ -1,1 +1,0 @@
-### Árbol de accesibilidad
