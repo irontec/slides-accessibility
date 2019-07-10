@@ -46,10 +46,20 @@
       {"path": "03-semantica_basica/05-alternativas_texto.md"}
     ],
     [
-      {"path": "04-aria/01-significado.md"},
-      {"path": "04-aria/02-atributos.md"},
-      {"path": "04-aria/03-estados_propiedades.md"},
-      {"path": "04-aria/04-aria_label.md"}
+      {"path": "04-aria/03-significado.md"},
+      {"path": "04-aria/01-ejemplo.md"},
+      {"path": "04-aria/02-ejemplo.md"},
+      {"path": "04-aria/04-significado.md"},
+      {"path": "04-aria/05-rol.md"},
+      {"path": "04-aria/06-aria_label.md"},
+      {"path": "04-aria/07-relationships.md"},
+      {"path": "04-aria/08-estados_propiedades.md"},
+      {"path": "04-aria/09-aria_nativo.md"},
+      {"path": "04-aria/10-aria_nativo.md"},
+      {"path": "04-aria/11-aria_nativo.md"},
+      {"path": "04-aria/12-seccion_oculta.md"},
+      {"path": "04-aria/13-seccion_oculta.md"}
+
     ],
     [
       {"path": "05-estilos/01-estilos_accesibles.md"},

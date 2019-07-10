@@ -8,3 +8,5 @@ Se ccategorizan de la siguiente manera:
 * Atributos de relaciones.
 
 [Lista de estados y propiedades](https://www.w3.org/TR/wai-aria-1.1/#states_and_properties)
+
+[ARIA Practices](https://www.w3.org/TR/wai-aria-practices-1.1/)
