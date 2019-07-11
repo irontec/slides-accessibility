@@ -9,4 +9,4 @@ Utilizamos el atributo __tabindex__ para especificar un orden explícito para lo
 * __tabindex=0__ agrega el elemento en el orden natural de tabulación.
 * __tabindex=-1__ fuera del orden de tabulación.
 * Llamar al método __focus()__.
-* __tabindex=5__ trae el elemento al frente. ¡Anti-pattern!
+* __tabindex=5__ trae el elemento al frente. __¡Anti-pattern!__

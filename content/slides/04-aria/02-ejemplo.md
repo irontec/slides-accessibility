@@ -5,8 +5,9 @@
     Acepto las condiciones
 </div>
 ```
-Texto
-Value: "Acepto las condiciones"
+__Texto__
+
+__Value__: "Acepto las condiciones"
 
 [Ejemplo](http://udacity.github.io/ud891/lesson5-semantics-aria/02-why-aria/index.html)
 

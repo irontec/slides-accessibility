@@ -1,8 +1,8 @@
 ### ¿Qué es el foco?
 
-Existen usuarios con discapacidades motoras que utilizan un teclado para navegar por la página.
+Existen usuarios con discapacidades motoras que utilizan el teclado para navegar por la página.
 
-Determina en que parte de la página tiene lugar los eventos del teclado.
+El foco determmina en que parte de la página tiene lugar los eventos del teclado.
 
 Se debe permitir el acceso a todas las funcionalidades de la página por medio de un teclado:
 

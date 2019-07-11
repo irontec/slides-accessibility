@@ -1,4 +1,4 @@
-### aria-label
+### Atributos ARIA: aria-label
 
 __aria-label__ especifica un string para usar como etiqueta accesible.
 

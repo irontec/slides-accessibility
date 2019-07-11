@@ -25,7 +25,8 @@
       {"path": "01-introduccion/00-datos.md"},
       {"path": "01-introduccion/01-significado.md"},
       {"path": "01-introduccion/02-ejemplo.md"},
-      {"path": "01-introduccion/03-pautas.md"}
+      {"path": "01-introduccion/03-pautas.md"},
+      {"path": "01-introduccion/04-puntos.md"}
     ],
     [
       {"path": "02-focus/01-significado.md"},
@@ -47,9 +48,9 @@
     ],
     [
       {"path": "04-aria/03-significado.md"},
+      {"path": "04-aria/04-significado.md"},
       {"path": "04-aria/01-ejemplo.md"},
       {"path": "04-aria/02-ejemplo.md"},
-      {"path": "04-aria/04-significado.md"},
       {"path": "04-aria/05-rol.md"},
       {"path": "04-aria/06-aria_label.md"},
       {"path": "04-aria/07-relationships.md"},
@@ -59,15 +60,19 @@
       {"path": "04-aria/11-aria_nativo.md"},
       {"path": "04-aria/12-seccion_oculta.md"},
       {"path": "04-aria/13-seccion_oculta.md"}
-
     ],
     [
       {"path": "05-estilos/01-estilos_accesibles.md"},
       {"path": "05-estilos/02-estilo_foco.md"},
+      {"path": "05-estilos/03-estilo_foco.md"},
       {"path": "05-estilos/03-estilos_aria.md"},
       {"path": "05-estilos/04-adaptable.md"},
-      {"path": "05-estilos/05-color_contraste.md"}
-
+      {"path": "05-estilos/05-color_contraste.md"},
+      {"path": "05-estilos/08-color_contraste.md"},
+      {"path": "05-estilos/09-color_contraste.md"},
+      {"path": "05-estilos/06-color_contraste.md"},
+      {"path": "05-estilos/07-nocoffee.md"},
+      {"path": "05-estilos/10-alto_contraste.md"}
     ],
     [
       {"path": "06-herramientas/01-herramientas.md"},
@@ -77,6 +82,7 @@
       {"path": "06-herramientas/04-lighthouse.md"},
       {"path": "06-herramientas/05-cy_axe.md"}
     ],
+    {"path": "07-conclusiones/01-conclusiones.md"},
     {"path": "last.md", "attrs": {"class":"last bg-red"}}
   ]
 }

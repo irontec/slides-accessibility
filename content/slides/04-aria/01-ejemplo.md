@@ -1,6 +1,6 @@
 ### ARIA - Accessible Rich Internet Applications
 
-Los elementos nativos tienen información semántica incorporada.
+Los __elementos nativos__ tienen información __semántica incorporada__:
 
 ```
 <label>
@@ -8,8 +8,8 @@ Los elementos nativos tienen información semántica incorporada.
     Acepto las condiciones
 </label>
 ```
-Checkbox
+__Checkbox__
 
-Nombre: "Acepto las condiciones"
+__Nombre__: "Acepto las condiciones"
 
-Estado: checked
+__Estado__: checked

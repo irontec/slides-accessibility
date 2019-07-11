@@ -1,5 +1,5 @@
-### Tecnología de asistencia
+### ¿Qué es la tecnología de asistencia?
 
 Software y herramientas que ayudan a cualquier persona con discapacidad a completar una tarea.
 
-Lector de pantalla, pantalla braille, lupa de pantalla, control de voz, etc.
+Por ejemplo: un __lector de pantalla__, __pantalla braille__, __lupa de pantalla__, __control de voz__, etc.

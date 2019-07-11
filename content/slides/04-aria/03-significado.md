@@ -1,9 +1,9 @@
 ### ARIA - Accessible Rich Internet Applications
 
-* Conjunto de atributos que modifican la forma en el que un elemento se traduce en el árbol de accesibilidad.
+* Conjunto de atributos que __modifican__ la forma en el que un elemento se traduce en __el árbol de accesibilidad__.
 
-* ARIA añade información que falta, para que el lector de pantalla pueda interpretarla correctamente.
+* ARIA __añade información__ que falta, para que el lector de pantalla pueda interpretarla correctamente.
 
-* Modifica la semántica de un elemento existente o agrega en los elementos que no lo tengan.
+* __Modifica la semántica__ de un elemento existente o __agrega__ en los elementos que no lo tengan.
 
-* ARIA no modifica el comportamiento del elemento. 
+* ARIA __no modifica el comportamiento__ del elemento. 
