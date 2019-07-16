@@ -22,8 +22,15 @@
   "slides": [
     {"path": "index.md", "attrs": {"class":"intro"}},
     [
+      {"path": "01-introduccion/00-accesibilidad.md"},
+      {"path": "01-introduccion/00-accesibilidad2.md"},
+      {"path": "01-introduccion/00-accesibilidad3.md"},
+      {"path": "01-introduccion/00-accesibilidad4.md"},
+      {"path": "01-introduccion/00-accesibilidad5.md"},
       {"path": "01-introduccion/00-datos.md"},
       {"path": "01-introduccion/01-significado.md"},
+      {"path": "01-introduccion/02-significado.md"},
+      {"path": "01-introduccion/03-significado.md"},
       {"path": "01-introduccion/02-ejemplo.md"},
       {"path": "01-introduccion/03-pautas.md"},
       {"path": "01-introduccion/04-puntos.md"}
@@ -62,6 +69,8 @@
       {"path": "04-aria/13-seccion_oculta.md"}
     ],
     [
+      {"path": "05-estilos/00-apariencia.md"},
+      {"path": "05-estilos/00-apariencia2.md"},
       {"path": "05-estilos/01-estilos_accesibles.md"},
       {"path": "05-estilos/02-estilo_foco.md"},
       {"path": "05-estilos/03-estilo_foco.md"},

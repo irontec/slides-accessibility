@@ -1,4 +1,4 @@
-### ¿Qué es accesibilidad?
+### ¿Qué es la accesibilidad web?
 
 Permite que personas con algún tipo de discapacidad puedan __percibir__, __entender__, __navegar__ e __interactuar__ con la web. 
 
