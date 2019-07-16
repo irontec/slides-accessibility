@@ -1,6 +1,6 @@
 ### Uso del tabindex
 
-Utilizamos el atributo __tabindex__ para especificar un orden explícito para los elementos de página que puedan tener el foco.
+Utilizamos el atributo __tabindex__ para especificar un __orden explícito_- para los elementos de página que puedan tener el foco.
 
 ```
 <div tabindex="0">Focus</div>

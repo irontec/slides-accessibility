@@ -1,8 +1,8 @@
 ### Alternativas de texto
 
-Hay que proporcionar alternativas de texto para cualquier contenido que no sea texto:
+Hay que proporcionar __alternativas de texto__ para cualquier contenido que no sea texto:
 
-[1.1.1 Non-text Content](https://webaim.org/standards/wcag/checklist#g1.1)
+[WebAIM - 1.1.1 Non-text Content](https://webaim.org/standards/wcag/checklist#g1.1)
 
 Mediante la etiqueta __alt__ añadimos una alternativa de texto.
 

@@ -8,7 +8,7 @@ Los __elementos nativos__ tienen información __semántica incorporada__:
     Acepto las condiciones
 </label>
 ```
-__Checkbox__
+__Tipo de elemento__: Checkbox
 
 __Nombre__: "Acepto las condiciones"
 
