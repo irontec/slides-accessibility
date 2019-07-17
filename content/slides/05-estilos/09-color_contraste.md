@@ -1,3 +1,3 @@
 ### Color y contraste
 
-![Formulario accesible](media/accessible_form.png) <!-- .element: style="height: 350px;" --> 
+![Formulario accesible](media/accessible_form.png) <!-- .element: style="height: 250px;" --> 

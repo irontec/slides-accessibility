@@ -1,21 +1,11 @@
-### Secciones ocultas a la vista
+### Secciones ocultas: aria-hidden
 
-Cualquier elemento que no tenga visibilidad, es __ocultado__ también __por la tecnología asistida__.
+Oculta contenido a la tecnología de asistencia.
 
 ```
-<div style="visibility: hidden;">
-<button style="display:none;">
-<span hidden>
-```
-
-Un elemento que no se representa visualmente, __se incluye__ en el __árbol de accesibilidad__.
- 
- ```
-.lectorpantalla {
-    position:absolute;
-    left: -100000px;
-    width: 1px;
-    height: 1px;
-    overflow: hidden;
-}
+<div class="banner">
+    <div class="slide" aria-hidden="true">Slide 1</div>
+    <div class="slide">Slide 2</div>
+    <div class="slide" aria-hidden="true">Slide 3</div>
+</div>
 ```

@@ -2,7 +2,7 @@
 
 Puntos a tener en cuenta:
 
-* Estilo del foco.
-* Estilo de estados con ARIA.
-* Diseño adaptable multidispositivo.
-* Color y contraste.
+* El estilo del __foco__.
+* El estilo de estados con __ARIA__.
+* Diseño __adaptable multidispositivo__.
+* __Color__ y __contraste__.

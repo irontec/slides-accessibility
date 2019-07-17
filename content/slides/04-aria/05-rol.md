@@ -7,4 +7,12 @@ EL atributo __role ARIA__ permite indicar la función de un elemento de la inter
     Acepto las condiciones
 </div>
 ```
-[Lista de roles](https://www.w3.org/TR/wai-aria-1.1/#role_definitions)
+El rol de ARIA se prioriza al rol del elemento HTML.
+
+No es necesario redefinir la semántica de los elementos nativos
+
+```
+<input type="checkbox" role="checkbox">
+```
+
+[Lista de roles ARIA](https://www.w3.org/TR/wai-aria-1.1/#roles_categorization)
