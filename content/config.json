@@ -33,13 +33,12 @@
       {"path": "01-introduccion/03-significado.md"},
       {"path": "01-introduccion/02-ejemplo.md"},
       {"path": "01-introduccion/03-pautas.md"},
-      {"path": "01-introduccion/04-puntos.md"}
+      {"path": "01-introduccion/04-accesible_universal.md"}
     ],
     [
       {"path": "02-focus/01-significado.md"},
       {"path": "02-focus/02-significado.md"},
       {"path": "02-focus/03-orden_dom.md"},
-      {"path": "02-focus/04-orden_dom.md"},
       {"path": "02-focus/05-tabindex.md"},
       {"path": "02-focus/06-skiplinks.md"},
       {"path": "02-focus/07-keyboard_patterns.md"},
@@ -48,8 +47,8 @@
     ],
     [
       {"path": "03-semantica_basica/01-tecnologia_asistencia.md"},
-      {"path": "03-semantica_basica/02-semantica.md"},
       {"path": "03-semantica_basica/03-lector_pantalla.md"},
+      {"path": "03-semantica_basica/02-semantica.md"},
       {"path": "03-semantica_basica/04-arbol_accesibilidad.md"},
       {"path": "03-semantica_basica/05-alternativas_texto.md"}
     ],
@@ -85,7 +84,6 @@
       {"path": "06-herramientas/01-herramientas.md"},
       {"path": "06-herramientas/02-axe.md"},
       {"path": "06-herramientas/03-axepro.md"},
-      {"path": "06-herramientas/04-axepro.md"},
       {"path": "06-herramientas/04-lighthouse.md"},
       {"path": "06-herramientas/05-cy_axe.md"}
     ],

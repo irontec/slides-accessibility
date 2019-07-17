@@ -1,6 +1,6 @@
 ### Estilo del foco
 
-El foco debe ser visualmente accesible.
+Sin el anillo de enfoque, el usuario no sabe que elemento tiene el foco. 
 
 ![Form focus](media/form_focus.png) <!-- .element: style="height: 80px;" --> 
 

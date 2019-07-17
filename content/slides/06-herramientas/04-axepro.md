@@ -1,1 +1,0 @@
-![Dashboard](media/axe-pro.png)  <!-- .element: style="height: 350px;" --> 

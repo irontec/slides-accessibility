@@ -1,6 +1,6 @@
 ### Semántica básica
 
-Se requiere información semántica sobre los widgets de entrada, estructuras y comportamiento, para permitir a tecnologías especificas transmitir información adecuada a personas con discapacidad.
+Información semántica sobre los widgets de entrada, estructuras y comportamiento, para permitir a tecnologías de asistencia transmitir información adecuada.
 
 * __Rol__: Especifica qué tipo de elemento es.
 * __Nombre__:

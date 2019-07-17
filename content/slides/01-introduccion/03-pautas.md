@@ -5,6 +5,8 @@
 * __Comprensible__:  ¿Puede el usuario entender el contenido y la interfaz?
 * __Sólido__:  ¿Funciona con tecnología asistencial?
 
+Guías de accesibilidad:
+
 [WCAG - Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG20/)
 
 [WebAIM - Accessibility In Mind](https://webaim.org/)

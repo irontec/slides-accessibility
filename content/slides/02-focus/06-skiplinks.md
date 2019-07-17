@@ -1,5 +1,4 @@
-### Skip links   (Revisar con sección 2.11 udacity)
-
+### Skip links
 Se utilizan para navegar directamente al contenido de la web, sin tener que atravesar todo el menú.
 
 A través de un ancla saltamos al contenido principal:
