@@ -84,6 +84,7 @@
     [
       {"path": "06-herramientas/01-herramientas.md"},
       {"path": "06-herramientas/02-axe.md"},
+      {"path": "06-herramientas/03-axe.md"},
       {"path": "06-herramientas/03-axepro.md"},
       {"path": "06-herramientas/04-lighthouse.md"},
       {"path": "06-herramientas/05-cy_axe.md"}
