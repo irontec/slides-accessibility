@@ -1,6 +1,6 @@
 ### Atributos ARIA: role
 
-EL atributo __role ARIA__ permite indicar la función de un elemento de la interfaz. 
+El atributo __role ARIA__ permite indicar la función de un elemento de la interfaz. 
 
 ```
 <div class="checbox checked" role="checkbox" aria-checked="true">

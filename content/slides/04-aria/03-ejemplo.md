@@ -4,7 +4,7 @@ Los __elementos nativos__ tienen información __semántica incorporada__:
 
 ```
 <label>
-    <input type="checkbox">
+    <input type="checkbox" checked>
     Acepto las condiciones
 </label>
 ```

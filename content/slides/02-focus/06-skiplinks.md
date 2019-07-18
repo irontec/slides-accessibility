@@ -9,4 +9,4 @@ A través de un ancla saltamos al contenido principal:
 </main>
 ```
 
-[Wikipedia lo hace al revés](https://en.wikipedia.org/wiki/Bilbao)
+[Ejemplo Wikipedia](https://en.wikipedia.org/wiki/Bilbao)

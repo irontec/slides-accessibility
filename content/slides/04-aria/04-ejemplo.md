@@ -9,6 +9,7 @@ __Texto__
 
 __Value__: "Acepto las condiciones"
 
-[Ejemplo](http://udacity.github.io/ud891/lesson5-semantics-aria/02-why-aria/index.html)
+No tenemos suficiente información. __¡ARIA nos permite darle información adicional!__
 
-__¡ARIA nos permite darle información adicional!__
+
+[Ejemplo](http://udacity.github.io/ud891/lesson5-semantics-aria/02-why-aria/index.html)

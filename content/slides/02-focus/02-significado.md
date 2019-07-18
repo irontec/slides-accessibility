@@ -9,4 +9,5 @@ Nos movemos por los elementos de la página mediantes las teclas:
 
 __¡No todos los elementos HTML pueden enfocarse!__ Las imágenes y los textos no.
 
-[Ejemplo de foco](http://udacity.github.io/ud891/lesson2-focus/01-basic-form/)
+[Ejemplo de foco 1](http://udacity.github.io/ud891/lesson2-focus/01-basic-form/)
+[Ejemplo de foco 2](https://www.bilbaobbklive.com/es/)

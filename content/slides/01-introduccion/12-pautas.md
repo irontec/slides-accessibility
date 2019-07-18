@@ -1,4 +1,4 @@
-### Pautas de accesibilidad
+### Pautas de accesibilidad a seguir
 
 * __Perceptible__:  ¿Puede el usuario percibir el contenido?
 * __Manejable__: ¿Puede el usuario navegar por el contenido?
