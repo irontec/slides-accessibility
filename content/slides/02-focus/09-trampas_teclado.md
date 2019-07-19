@@ -1,6 +1,6 @@
 ### Trampas de teclado
 
-El foco nunca debe ser bloqueado en un elemento de la página.
+El foco __nunca debe ser bloqueado__ en un elemento de la página.
 
 Pero a veces es un comportamiento deseado. Por ejemplo, en las modales.
 

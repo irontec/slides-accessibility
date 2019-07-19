@@ -23,12 +23,12 @@
     {"path": "index.md", "attrs": {"class":"intro"}},
     [
       {"path": "01-introduccion/01-accesibilidad_significado.md"},
+      {"path": "01-introduccion/07-datos.md"},
       {"path": "01-introduccion/02-accesibilidad.md"},
       {"path": "01-introduccion/03-accesibilidad.md"},
       {"path": "01-introduccion/04-accesibilidad.md"},
       {"path": "01-introduccion/05-accesibilidad.md"},
       {"path": "01-introduccion/06-accesibilidad.md"},
-      {"path": "01-introduccion/07-datos.md"},
       {"path": "01-introduccion/08-significado.md"},
       {"path": "01-introduccion/09-significado.md"},
       {"path": "01-introduccion/10-significado.md"},

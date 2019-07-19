@@ -1,6 +1,6 @@
 ### Modo alto contraste
 
-Permite al usuario invertir los colores del primer plano y el segundo plano, lo cual a menudo ayuda a que el texto se destaque mejor.
+Permite al usuario __invertir los colores__ del primer plano y el segundo plano, lo cual a menudo ayuda a que __el texto se destaque mejor__.
 
 Utilizamos la [extensión Chrome High Contrast](https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph) y verificamos que la web sea visible y usable.
 

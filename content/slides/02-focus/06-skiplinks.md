@@ -1,5 +1,5 @@
 ### Skip links
-Se utilizan para navegar directamente al contenido de la web, sin tener que atravesar todo el menú.
+Se utilizan para __navegar directamente al contenido de la web__, sin tener que atravesar todo el menú.
 
 A través de un ancla saltamos al contenido principal:
 ```

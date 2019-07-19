@@ -6,7 +6,7 @@ Hay que proporcionar __alternativas de texto__ para cualquier contenido que no s
 
 Mediante la etiqueta __alt__ añadimos una alternativa de texto.
 
-Si la imagen es decorativa añadimos un alt vacio. El lector de pantallas lo ignora.
+Si la __imagen es decorativa__ añadimos un __alt vacío__. El lector de pantallas lo ignora.
 
 ```
 <img src="image.jpg" alt="">
