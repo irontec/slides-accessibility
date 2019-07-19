@@ -1,6 +1,8 @@
 ### The Accessible Icon Project
 
-Comenzo siendo un __movimiento de arte guerrilla__ hasta convertirse en un __proyecto social__.
+Comenzó siendo un __movimiento de arte guerrilla__ hasta convertirse en un __proyecto social__.
+
+Objetivo: Editar las ciudades que tenemos y señalar a la acción colectiva para un futuro más inclusivo.
 
 ![Old accessibility icon](media/sarahendren.png)  <!-- .element: style="height: 300px;" --> 
 
