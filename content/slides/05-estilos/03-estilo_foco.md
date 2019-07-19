@@ -4,7 +4,7 @@ Algunos programadores quitan el estilo del foco, al no adaptarse al diseño de l
 
 ¡Desactivar el estilo del foco es __anti-patrón__!
 
-```
+```css
 :focus {
     outline: 0;
 }

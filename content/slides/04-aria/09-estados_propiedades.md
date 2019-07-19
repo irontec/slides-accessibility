@@ -2,7 +2,7 @@
 
 Dan más información sobre un widget a las tecnologías de asistencia.
 
-Suelen ser dinámicos y cambian a lo largo del uso de la web, manipulado por Javascript. Por ejemplo:
+Suelen ser __dinámicos__ y __cambian__ a lo largo del uso de la web, manipulado por Javascript. Por ejemplo:
 
 * __aria-expanded__: usado cuando un menú se expande o colapsa.
 
