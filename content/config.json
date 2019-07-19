@@ -42,7 +42,6 @@
       {"path": "02-focus/03-orden_dom.md"},
       {"path": "02-focus/05-tabindex.md"},
       {"path": "02-focus/06-skiplinks.md"},
-      {"path": "02-focus/07-keyboard_patterns.md"},
       {"path": "02-focus/08-offscreen_content.md"},
       {"path": "02-focus/09-trampas_teclado.md"}
     ],
@@ -74,6 +73,8 @@
       {"path": "05-estilos/03-estilo_foco.md"},
       {"path": "05-estilos/03-estilos_aria.md"},
       {"path": "05-estilos/04-adaptable.md"},
+      {"path": "05-estilos/05-adaptable.md"},
+      {"path": "05-estilos/06-adaptable.md"},
       {"path": "05-estilos/05-color_contraste.md"},
       {"path": "05-estilos/08-color_contraste.md"},
       {"path": "05-estilos/09-color_contraste.md"},

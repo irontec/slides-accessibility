@@ -1,6 +1,6 @@
 ### Diseño adaptable multidispositivo
 
-El texto debe ser legíble y funcional cuando duplica su tamaño.
+* El texto debe ser __legíble y funcional cuando duplica su tamaño__.
 
 La etiqueta meta __viewport__ da instrucciones al navegador para controlar las dimensiones y su escalado:
 
