@@ -2,7 +2,7 @@
 
 Utilizamos el atributo __tabindex__ para especificar un __orden explícito__ para los elementos de página que puedan tener el foco.
 
-```
+```xml
 <div tabindex="0">Focus</div>
 ```
 

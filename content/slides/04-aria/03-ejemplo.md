@@ -2,7 +2,7 @@
 
 Los __elementos nativos__ tienen información __semántica incorporada__:
 
-```
+```xml
 <label>
     <input type="checkbox" checked>
     Acepto las condiciones

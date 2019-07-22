@@ -1,6 +1,6 @@
 ### ARIA - Accessible Rich Internet Applications
 
-```
+```xml
 <div class="checbox checked">
     Acepto las condiciones
 </div>

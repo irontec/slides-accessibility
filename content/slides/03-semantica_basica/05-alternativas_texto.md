@@ -8,6 +8,6 @@ Mediante la etiqueta __alt__ añadimos una alternativa de texto.
 
 Si la __imagen es decorativa__ añadimos un __alt vacío__. El lector de pantallas lo ignora.
 
-```
+```xml
 <img src="image.jpg" alt="">
 ```

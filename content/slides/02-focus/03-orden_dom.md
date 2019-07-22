@@ -2,7 +2,7 @@
 
 El __orden de tabulación__ de los elementos nativos se basa en su __posición en el DOM__.
 
-```
+```xml
 <button>I Should</button>
 <button>Be Focused</button>
 <button>Last!</button>
@@ -10,7 +10,7 @@ El __orden de tabulación__ de los elementos nativos se basa en su __posición e
 
 Al agregar estilos en línea, cambia el orden visual pero el DOM es el mismo.
 
-```
+```xml
 <button style="float:right;">I Should</button>
 <button>Be Focused</button>
 <button>Last!</button>

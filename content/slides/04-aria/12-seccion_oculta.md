@@ -2,7 +2,7 @@
 
 Oculta contenido a la tecnología de asistencia.
 
-```
+```xml
 <div class="banner">
     <div class="slide" aria-hidden="true">Slide 1</div>
     <div class="slide">Slide 2</div>
